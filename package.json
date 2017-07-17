@@ -1,0 +1,39 @@
+{
+  "name": "spellcheck",
+  "version": "1.0.0",
+  "description": "spell checking html syntax of local files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Streed12/spellCheck.git"
+  },
+  "keywords": [
+    "spellcheck",
+    "spelling",
+    "spellchecker",
+    "spell check",
+    "spell"
+  ],
+  "author": "Steven Reed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Streed12/spellCheck/issues"
+  },
+  "homepage": "https://github.com/Streed12/spellCheck#readme",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "json": "^9.0.6",
+    "linebyline": "^1.3.0",
+    "typo-js": "^1.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^15.0.2",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.1.0"
+  }
+}
